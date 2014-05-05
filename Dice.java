@@ -59,3 +59,5 @@ static Random r = new Random();
 		average /= bounces;
 	}
 	}
+
+// Good of you to try.  Try to not misss class discussion.
